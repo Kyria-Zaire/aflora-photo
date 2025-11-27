@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://aflora-photo.com/sitemap.xml
+Sitemap: https://aflora-photo.vercel.app/sitemap.xml
 
